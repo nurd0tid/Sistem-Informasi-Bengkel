@@ -198,7 +198,7 @@
                 "order": [],
                 "info": false,
                 "language": {
-                    search: "<span style='margin-right: 2px'>Kode Part :</span>"
+                    search: "<span style='margin-right: 2px'>Cari :</span>"
                 },
                 "lengthChange": false,
                 "ajax": {
